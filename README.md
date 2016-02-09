@@ -1,4 +1,4 @@
-# config-app 
+# config-broker
 
 Multi-Application centralised configuration manager
 

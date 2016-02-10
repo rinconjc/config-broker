@@ -23,6 +23,6 @@ This is an attempt to solve the problem described in http://stackoverflow.com/qu
 There's a chicken and egg problem when it comes to authorize applications to access a particular config-set from the config-broker. 
 Let's see some alternatives on this:
 * Applications are initialised with some credentials in order to access the config-broker. 
-* 
+* Applications use a temporary single use key to bootstrap trust relationshipt with the broker.
 
  
